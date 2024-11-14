@@ -14,3 +14,15 @@ Beneficios da confiabilidade e previsibilidade na nuvem(ALTA DISPONIBILIDADE,ESC
 No Portal Azure entendi sobre TEMPO DE SLA(QUANTO MAIS 9 menos tempo de inatividade)
 
 =========================================================================================
+TIPOS DE NUVEM
+
+IaaS (infraestrutura como serviço)
+O cliente tem acesso sob demanda a recursos de computação, armazenamento e rede hospedados na nuvem. O cliente tem controle quase total sobre o hardware virtual e é responsável por gerenciar aspectos como aplicativos, sistemas operacionais, middleware e dados. 
+
+PaaS (plataforma como serviço)
+O cliente tem acesso sob demanda a uma plataforma hospedada na nuvem, pronta para uso e completa para desenvolver, executar, manter e gerenciar aplicativos. O cliente controla os dados e o aplicativo, enquanto o provedor de serviços gerencia o restante. 
+
+SaaS (software como serviço)
+O cliente tem acesso sob demanda a software de aplicativo hospedado na nuvem e pronto para uso. O provedor gerencia tudo, e o cliente pode alterar algumas configurações.
+
+=========================================================================================
