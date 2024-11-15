@@ -26,3 +26,18 @@ SaaS (software como serviço)
 O cliente tem acesso sob demanda a software de aplicativo hospedado na nuvem e pronto para uso. O provedor gerencia tudo, e o cliente pode alterar algumas configurações.
 
 =========================================================================================
+
+Arquitetura do Azure 
+
+Regiões, pares de regiões e regiões soberanas do Azure.
+
+Zonas de disponibilidade e datacenters do Azure.
+
+Recursos e os grupos de recursos do Azure.
+
+Assinaturas e grupos de gerenciamento.
+
+Hierarquia de grupos de recursos, assinaturas e grupos de gerenciamento.
+
+=========================================================================================
+
