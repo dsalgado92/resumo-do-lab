@@ -27,7 +27,7 @@ O cliente tem acesso sob demanda a software de aplicativo hospedado na nuvem e p
 
 =========================================================================================
 
-Arquitetura do Azure 
+ARQUITETURA DO AZURE 
 
 Regiões, pares de regiões e regiões soberanas do Azure.
 
@@ -40,4 +40,16 @@ Assinaturas e grupos de gerenciamento.
 Hierarquia de grupos de recursos, assinaturas e grupos de gerenciamento.
 
 =========================================================================================
+
+COMPUTAÇÃO E REDE
+
+Tipos de computação, instâncias de contêiner, máquinas virtuais e funções.
+
+Opções de hospedagem de aplicativos, Aplicativos Web do Azure, contêineres e máquinas virtuais.
+
+Redes virtuais, sub-redes,  emparelhamento, DNS, do Gateway de VPN e do ExpressRoute.
+
+Criada maquinas virtuais no portal Azure
+=========================================================================================
+
 
