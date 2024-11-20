@@ -52,4 +52,19 @@ Redes virtuais, sub-redes,  emparelhamento, DNS, do Gateway de VPN e do ExpressR
 Criada maquinas virtuais no portal Azure
 =========================================================================================
 
+Introdução
+
+Redudância e Serviços de Armazenamento
+
+Pontos de Extremidades Públicos e Camadas de Acesso
+
+Migrações para o Azure
+
+Opções de Gerenciamento de Arquivos
+
+Armazenamento – Revisão
+
+Criada Migração teste e utilizadas AZCOPY e usado GERENCIADOR DE ARMAZENAMENTO DO MICROSOFT AZURE
+
+=========================================================================================
 
